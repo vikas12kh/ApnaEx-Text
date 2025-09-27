@@ -3,26 +3,26 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "21157244"))
+API_ID = int(os.environ.get("API_ID", "22694914"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","4981c2699bd91c7db836ec8f77e5b0f0")
+API_HASH = os.environ.get("API_HASH","4fd02c02368941a03d48ecab3a3b4a31")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Gajjubhaikaext_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Cpuplod1erbot")
 BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "1783306092"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7491374623"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002195125473"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002784599161"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002195125473")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002784599161")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002195125473"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002784599161"))
 # -----------------------------------------------
 join = '<a href="https://t.me/RPSC_UPSC_CURRENT">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
